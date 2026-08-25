@@ -2,7 +2,7 @@
 
 ## Sua tarefa
 
-### Nome: GUILHERME VICENTE DOS SANTOS
+### Nome: GUILHERME VICENTE DOS SANTOS e PAULO ANDRÉ REIS LIRA
 
 Você recebeu uma função que **funciona**, mas tem **vários problemas misturados**. Calcula o reembolso de uma compra conforme prazo, categoria e status do cliente.
 
